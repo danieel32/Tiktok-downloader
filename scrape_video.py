@@ -61,7 +61,7 @@ def downloadVideo(link, id):
 
 driver=webdriver.Chrome()
 #put the account from which you want to download videos without watermark from
-driver.get("https://www.tiktok.com/@weshammer")
+driver.get("https://www.tiktok.com/@placeholder")
 
 time.sleep(1)
 
